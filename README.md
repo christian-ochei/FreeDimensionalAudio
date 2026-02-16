@@ -92,7 +92,7 @@ This is one of the most crucial parts of this pipeline. It has to be fast, Robus
 
 ```Thread 4```
 
-For a truly immersive experience. FreeDimentionalAudio Requires known facial intrinsic and extrinsic parameters computed in real time. The easiest and least expensive method I could think of was a face tracker. To realize such idea, I took advantage of MediaPipe Face tracker which is crucial to this pipeline
+For a truly immersive experience. FreeDimensionalAudio Requires known facial intrinsic and extrinsic parameters computed in real time. The easiest and least expensive method I could think of was a face tracker. To realize such idea, I took advantage of MediaPipe Face tracker which is crucial to this pipeline
 	
 Make sure to ```pip install mediapipe```
 
@@ -106,7 +106,7 @@ I also built a small visualizer to display how sound and your face moves in real
 #
 <br>
 
-### Contributing to FreeDimentionalAudio
+### Contributing to FreeDimensionalAudio
 
 I am highly in need of contributors. please send a PR.
 …
